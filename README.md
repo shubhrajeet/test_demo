@@ -1,3 +1,2 @@
 # test_demo
-This commit is done while learning git 
-ignore
+This repository is made while learning git so it should be ignored
